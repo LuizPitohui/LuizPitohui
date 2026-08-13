@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Luiz Fernando 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia da Computação na FUCAPI · Manaus, AM 🇧🇷<br/>
-  Foco em desenvolvimento backend e sistemas distribuídos.
+  Desenvolvedor Fullstack · Manaus, AM 🇧🇷<br/>
+  Sistemas de gestão e automação para empresas — do backend ao deploy.
 </p>
 
 <p align="center">
@@ -18,10 +18,13 @@
 
 ### 💻 Sobre mim
 
+Construo sistemas web completos — banco de dados, regra de negócio, interface e infraestrutura — para empresas que precisam organizar processos e automatizar tarefas repetitivas.
+
+- 🏢 Experiência em produção com **Django** e **Next.js**, incluindo deploy e administração de servidores na **AWS** (EC2, Nginx, Gunicorn)
+- ⚖️ Atualmente desenvolvendo sistema de gestão para **escritório de advocacia**, com adequação à **LGPD** e integração de IA
+- 🤖 Trabalho com **automação de atendimento via WhatsApp** e integrações entre sistemas
 - 🎓 Cursando Engenharia da Computação na **FUCAPI**
-- 🔭 Trabalhando em **JurisAgenda**, sistema web de agenda jurídica com Django, Celery e WebSockets
-- 🌱 Atualmente aprofundando em **arquitetura de software, Docker e bancos de dados relacionais**
-- 💼 Buscando oportunidades de **estágio em desenvolvimento backend**
+- 💼 **Aberto a projetos freelance** — sistemas de gestão, automação e integrações
 - 📫 Vamos conversar? Me chama no [LinkedIn](https://www.linkedin.com/in/luiz-fernando-da-silva-guedes-2a2110320/)
 
 ---
@@ -35,16 +38,22 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend & Frameworks**  
+**Backend**  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**Frontend**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Banco de Dados & Infra**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 **Ferramentas**  
@@ -65,10 +74,12 @@
 
 ### 🚀 Projetos em destaque
 
-- 🔹 **[JurisAgenda](https://github.com/LuizPitohui/jurisagenda)** — Sistema web de agenda jurídica com Django, Celery, WebSockets e MinIO. Inclui conformidade com LGPD e painel TV em tempo real.
-- 🔹 **[WhatsApp Bot](https://github.com/LuizPitohui/whatsapp-bot)** — Sistema de atendimento automatizado via WhatsApp orquestrado em Docker (WPPConnect + Django + PostgreSQL + Redis).
-- 🔹 **[Gestão Clínica](https://github.com/LuizPitohui/Gestao-Clinica)** — Sistema de gestão para clínicas.
-- 🔹 **[GAC-Connect](https://github.com/LuizPitohui/GAC-Connect)** — [breve descrição do projeto].
+- ⚖️ **[JurisAgenda](https://github.com/LuizPitohui/jurisagenda)** — Agenda jurídica para escritórios de advocacia: controle de prazos e audiências com alertas em tempo real (WebSockets), lembretes automáticos (Celery) e painel de TV para o escritório.
+- 🤖 **[WhatsApp Bot](https://github.com/LuizPitohui/whatsapp-bot)** — Atendimento automatizado no WhatsApp com triagem por menu e encaminhamento, orquestrado em Docker (WPPConnect + Django + PostgreSQL + Redis).
+- 💰 **[DeMolay Treasury](https://github.com/LuizPitohui/demolay-treasury)** — Sistema de tesouraria e auditoria: dashboard de KPIs, balancetes oficiais em PDF e logs de auditoria rastreáveis. Django REST + Next.js.
+- 💎 **[Joias Platform](https://github.com/LuizPitohui/joias-platform)** — E-commerce headless com catálogo dinâmico, carrinho e autenticação JWT. Next.js + TypeScript e Django REST, em Docker.
+- 🏢 **[Norte Tech Site](https://github.com/LuizPitohui/NorteTech-Site)** — Portal corporativo com site institucional gerenciável e sistema de recrutamento (ATS): vagas, banco de talentos e triagem de candidatos.
+- 📖 **[Arasaka Nexus](https://github.com/LuizPitohui/arasaka-nexus)** — Biblioteca de mangás com leitor integrado e importação assíncrona via API do MangaDex. Next.js 16 + React 19, Django 6 + Celery.
 
 ---
 
