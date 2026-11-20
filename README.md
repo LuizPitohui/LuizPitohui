@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://luizpitohui.github.io">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-e3b45a?style=for-the-badge&logo=googlechrome&logoColor=0b0d0c" alt="Portfólio"/>
+  </a>
   <a href="https://www.linkedin.com/in/luiz-fernando-da-silva-guedes-2a2110320/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
