@@ -51,10 +51,6 @@ Construo sistemas web completos — banco de dados, regra de negócio, interface
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LuizPitohui&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&custom_title=Estat%C3%ADsticas&theme=github_dark&hide_border=true"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=LuizPitohui&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&custom_title=Estat%C3%ADsticas&theme=default&hide_border=true" alt="Estatísticas do GitHub"/>
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPitohui&layout=compact&langs_count=6&theme=github_dark&hide_border=true"/>
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPitohui&layout=compact&langs_count=6&theme=default&hide_border=true" alt="Linguagens mais usadas"/>
   </picture>
