@@ -22,6 +22,7 @@ Construo sistemas web completos — banco de dados, regra de negócio, interface
 - ⚖️ Hoje desenvolvo a plataforma de um **escritório de advocacia**: agenda de prazos, monitoramento processual e integração com IA, com adequação à **LGPD**
 - 🤖 Automação de atendimento via **WhatsApp** e integrações entre sistemas
 - 🎓 Engenharia da Computação na **FUCAPI**
+- 🌐 Portfólio com estudos de caso: [luizpitohui.github.io](https://luizpitohui.github.io)
 - 📫 Projeto em mente? Me chama no [LinkedIn](https://www.linkedin.com/in/luiz-fernando-da-silva-guedes-2a2110320/)
 
 ---
